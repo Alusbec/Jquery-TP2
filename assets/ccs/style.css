@@ -1,0 +1,49 @@
+@font-face{
+    font-family: "coconut";
+    src: url(../POLICE/Coconut\ Punch\ DEMO.otf)
+}
+
+body{
+    font-family: "coconut";
+    text-align: center;
+    text-shadow:#FFF 2px 2px 2PX;
+    color: #46515F;
+}
+
+h1 {
+    font-size: 55px;
+}
+h2  {
+    font-size: 35px;
+}
+
+form {
+    font-size: 28px;
+}
+
+#result{
+    margin-top: 15px;
+}
+
+#moyenne{
+    color: #D16046;
+    font-weight: bold;
+}
+
+#appreciation {
+    color: #D16046;
+}
+
+.fond {
+    background-image: url(../img/fond.png);
+}
+
+input {
+    border-radius: 15px;
+}
+
+button {
+    background-color:#46515F ;
+    color: #FFF;
+    border-radius: 10px;
+}
